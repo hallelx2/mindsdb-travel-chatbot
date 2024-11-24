@@ -1,3 +1,5 @@
 private
 connect.sh
-.env
+.env./.git/objects/ba/5d63de530d0acb0b0f2b0b9133eeb2aa42ea4f
+./data/itineraries-min-250k.csv
+./data/itineraries-min-100k.csv
