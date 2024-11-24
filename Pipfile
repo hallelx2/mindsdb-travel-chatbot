@@ -9,6 +9,15 @@ sqlalchemy = "*"
 pydantic = "*"
 pydantic-settings = "*"
 black = "*"
+kaggle = "*"
+python-decouple = "*"
+dask = {extras = ["dataframe"], version = "*"}
+pandas = "*"
+jupyter = "*"
+pymysql = "*"
+uvicorn = "*"
+jinja2 = "*"
+ipykernel = "*"
 
 [dev-packages]
 
